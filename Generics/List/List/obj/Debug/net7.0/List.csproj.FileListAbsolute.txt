@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\source\repos\List\List\bin\Debug\net7.0\List.exe
+C:\Users\lab_services_student\source\repos\List\List\bin\Debug\net7.0\List.deps.json
+C:\Users\lab_services_student\source\repos\List\List\bin\Debug\net7.0\List.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\List\List\bin\Debug\net7.0\List.dll
+C:\Users\lab_services_student\source\repos\List\List\bin\Debug\net7.0\List.pdb
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\List.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\List.dll
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\refint\List.dll
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\List.pdb
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\List\List\obj\Debug\net7.0\ref\List.dll

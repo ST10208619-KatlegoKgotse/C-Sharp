@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\bin\Debug\net7.0\UsingDelegates.exe
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\bin\Debug\net7.0\UsingDelegates.deps.json
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\bin\Debug\net7.0\UsingDelegates.runtimeconfig.json
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\bin\Debug\net7.0\UsingDelegates.dll
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\bin\Debug\net7.0\UsingDelegates.pdb
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\UsingDelegates.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\UsingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\UsingDelegates.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\UsingDelegates.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\UsingDelegates.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\UsingDelegates.dll
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\refint\UsingDelegates.dll
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\UsingDelegates.pdb
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\UsingDelegates.genruntimeconfig.cache
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\UsingDelegates\UsingDelegates\obj\Debug\net7.0\ref\UsingDelegates.dll

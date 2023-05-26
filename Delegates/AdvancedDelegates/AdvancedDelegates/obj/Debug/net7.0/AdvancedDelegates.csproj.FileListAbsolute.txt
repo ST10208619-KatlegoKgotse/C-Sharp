@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\bin\Debug\net7.0\AdvancedDelegates.exe
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\bin\Debug\net7.0\AdvancedDelegates.deps.json
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\bin\Debug\net7.0\AdvancedDelegates.runtimeconfig.json
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\bin\Debug\net7.0\AdvancedDelegates.dll
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\bin\Debug\net7.0\AdvancedDelegates.pdb
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\AdvancedDelegates.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\AdvancedDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\AdvancedDelegates.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\AdvancedDelegates.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\AdvancedDelegates.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\AdvancedDelegates.dll
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\refint\AdvancedDelegates.dll
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\AdvancedDelegates.pdb
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\AdvancedDelegates.genruntimeconfig.cache
+C:\Users\lab_services_student\Documents\C-Sharp\Delegates\AdvancedDelegates\AdvancedDelegates\obj\Debug\net7.0\ref\AdvancedDelegates.dll
